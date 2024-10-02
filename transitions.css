@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 1px;
+    transition-duration: 2s;
+    padding:80;
+    color: red;
+    text-align: center;
+    border-radius: 10%;
+}
+p{
+    padding: 80px 10px 40px 10px;
+}
+div:hover{
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+}
